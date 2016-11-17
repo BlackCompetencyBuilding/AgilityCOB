@@ -75,7 +75,7 @@
                  
      
 			
-     <tr>
+    <!-- <tr>
                        <td><font color=tan size=4 face="Verdana">Login as</font></td>
                         <td><select >
 <option value="Administrator">Admin </option>
@@ -84,14 +84,14 @@
 
 </td>
 		
-             <!-- comment here -->
+             
                 
             
                      <td><input type="reset" value="Reset" /></td>
                          <td><input type="submit" value="Login" /></td>  
                       
                     
-                    <tr> 
+                    <tr> -->
                         <td colspan="2"><a href="index.jsp">Register Now</a></td>
                     </tr>
                 </tbody>
